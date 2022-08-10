@@ -1,0 +1,29 @@
+
+body{
+  background: url("https://i.pinimg.com/originals/2e/8b/01/2e8b013bd630c641a88951f8182e27a6.jpg");
+  background-position:center;
+  color:rgb(158, 36, 229);
+  font-size:14px;
+  font-family: cursive;
+}
+.copy_right_footer{
+  position:fixed;
+  color:gold;
+  bottom:0;
+  background-color:blue;
+  line-height: 3;
+  text-align: center;
+}
+canvas{
+  border:5px solid rgb(56, 232, 29);
+  border-radius: 20px;
+  box-shadow:5px 5px 5px rgb(0, 13, 255);
+  margin-top: 160px;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  border: 5px solid gold;
+  box-shadow: blue;
+}
